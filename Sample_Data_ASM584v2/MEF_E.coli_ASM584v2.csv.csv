@@ -1,0 +1,70 @@
+#date: 2025-06-29_09:05
+#sample: GCF_000005845.2_ASM584v2_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.16.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,IS609,,predicted,insertion sequence,1748,,0,0.977,1.0,0,41,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1503161,1504908,M1748
+2,ISKpn8,,predicted,insertion sequence,1443,,0,0.947,1.0,0,76,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3720633,3722075,M1443
+3,IS4,,predicted,insertion sequence,1426,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",4502090,4503515,M1426
+4,IS2,IS4521L;IS4521R,predicted,insertion sequence,1331,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",4498181,4499511,M1331
+5,IS2,IS4521L;IS4521R,predicted,insertion sequence,1331,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3186096,3187426,M1331
+6,IS2,IS4521L;IS4521R,predicted,insertion sequence,1331,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1467910,1469240,M1331
+7,IS2,IS4521L;IS4521R,predicted,insertion sequence,1331,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2068941,2070271,M1331
+8,IS2,IS4521L;IS4521R,predicted,insertion sequence,1331,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2996361,2997691,M1331
+9,IS2,IS4521L;IS4521R,predicted,insertion sequence,1331,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",381260,382590,M1331
+10,IS421,IS186,predicted,insertion sequence,1339,,0,0.998,0.998,3,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2514276,2515614,M219 I3 M1120
+11,IS421,IS186,predicted,insertion sequence,1339,,0,0.998,0.998,3,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",608010,609348,M219 I3 M1120
+12,IS421,IS186,predicted,insertion sequence,1339,,0,0.998,0.998,3,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",15390,16728,M219 I3 M1120
+13,ISEc1,ISEc6;ISEc3;ISEc4;ISEc7;ISEc2,predicted,insertion sequence,1290,,0,0.956,0.998,3,54,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",736682,737971,M22 I1 M2 D1 M116 I1 M1149
+14,ISEc1,ISEc6;ISEc3;ISEc4;ISEc7;ISEc2,predicted,insertion sequence,1291,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3624234,3625524,M1291
+15,ISEc5,,predicted,insertion sequence,1291,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1531672,1532962,M1291
+16,IS3,,predicted,insertion sequence,1258,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",391709,392966,M1258
+17,IS3,,predicted,insertion sequence,1258,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1094245,1095502,M1258
+18,IS3,,predicted,insertion sequence,1258,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2170171,2171428,M1258
+19,IS3,,predicted,insertion sequence,1258,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",566777,568034,M1258
+20,IS3,,predicted,insertion sequence,1255,,0,1.0,0.998,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",315229,316483,M1255
+21,ISEc19,,predicted,insertion sequence,1229,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",280804,282032,M1229
+22,IS30,IS121,predicted,insertion sequence,1221,,0,0.998,1.0,0,3,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",270541,271761,M1221
+23,IS30,IS121,predicted,insertion sequence,1221,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1469296,1470516,M1221
+24,IS30,IS121,predicted,insertion sequence,1221,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",4507459,4508679,M1221
+25,IS5,,predicted,insertion sequence,1195,,0,0.996,1.0,0,5,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2066159,2067353,M1195
+26,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",273955,275149,M1195
+27,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",574591,575785,M1195
+28,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",687851,689045,M1195
+29,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3130146,3131340,M1195
+30,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2101749,2102943,M1195
+31,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2288919,2290113,M1195
+32,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1396044,1397238,M1195
+33,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1299499,1300693,M1195
+34,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3365556,3366750,M1195
+35,IS5,,predicted,insertion sequence,1195,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3652036,3653230,M1195
+36,ISKpn26,,predicted,insertion sequence,1196,,0,0.997,1.0,0,4,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1427599,1428794,M1196
+37,ISEc26,,predicted,insertion sequence,1204,,0,0.986,0.92,7,10,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1530470,1531673,M101 D1 M752 D1 M311 I5 M38
+38,ISSen9,,predicted,insertion sequence,768,,0,0.923,1.0,0,59,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",4518472,4519239,M768
+39,ISSen9,,predicted,insertion sequence,768,,0,0.94,1.0,0,46,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",19796,20563,M768
+40,ISSen9,,predicted,insertion sequence,768,,0,0.94,1.0,0,46,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",257908,258675,M768
+41,ISSen9,,predicted,insertion sequence,768,,0,0.94,1.0,0,46,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3583428,3584195,M768
+42,ISSen9,,predicted,insertion sequence,768,,0,0.94,1.0,0,46,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1978503,1979270,M768
+43,ISSen9,,predicted,insertion sequence,768,,0,0.945,1.0,0,42,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1049778,1050545,M768
+44,ISSen9,,predicted,insertion sequence,768,,0,0.948,1.0,0,40,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",279163,279930,M768
+45,ISSen9,,predicted,insertion sequence,768,,0,0.948,1.0,0,40,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",290634,291401,M768
+46,MITEEc1,,predicted,mite,122,,0.0,0.87,0.992,1,15,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1279354,1279475,M74 I1 M48
+47,MITEEc1,,predicted,mite,122,,0.0,0.87,0.992,1,15,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1768776,1768897,M44 I1 M78
+48,MITEEc1,,predicted,mite,123,,0.0,0.959,1.0,0,5,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",253341,253463,M123
+49,MITEEc1,,predicted,mite,123,,0.0,0.992,1.0,0,1,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",596982,597104,M123
+50,MITEEc1,,predicted,mite,123,,0.0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",3071273,3071395,M123
+51,MITEEc1,,predicted,mite,122,,0.0,0.943,0.992,0,7,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",438152,438273,M122
+52,MITEEc1,,predicted,mite,121,,0.0,0.992,0.984,0,1,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",803326,803446,M121
+53,MITEYpe1,,predicted,mite,117,,0.0,0.822,0.935,2,19,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1362516,1362632,M60 I1 M2 D1 M54
+54,MITEYpe1,,predicted,mite,117,,0.0,0.778,0.951,0,26,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",4583120,4583236,M117
+55,MITEYpe1,,predicted,mite,115,,0.0,0.786,0.902,4,21,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",190617,190731,M43 D1 M5 I1 M21 I1 M4 D1 M40
+56,MITEYpe1,,predicted,mite,115,,0.0,0.8,0.935,0,23,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2656415,2656529,M115
+15_13,cn_1670_ISEc1,,putative,composite transposon,1670,,0,0.956,0.998,3,54,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",736301,737971,
+16_13,cn_2244_ISEc1,,putative,composite transposon,2244,,0,0.956,0.998,3,54,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",736681,738925,
+25_22,cn_9571_IS30,,putative,composite transposon,9571,,0,0.998,1.0,0,3,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",270540,280111,
+36_32,cn_32751_IS5,,putative,composite transposon,32751,,0,1.0,1.0,0,0,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1396043,1428794,
+37_25_30,cn_36785_IS5,,putative,composite transposon,36785,,0,0.996,1.0,0,5,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",2066158,2102943,
+37_36,cn_32751_ISKpn26,,putative,composite transposon,32751,,0,0.997,1.0,0,4,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",1396043,1428794,
+46_40_44,cn_22023_ISSen9,,putative,composite transposon,22023,,0,0.94,1.0,0,46,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",257907,279930,
+47_44_45,cn_12239_ISSen9,,putative,composite transposon,12239,,0,0.948,1.0,0,40,"NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome",279162,291401,
