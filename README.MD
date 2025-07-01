@@ -10,6 +10,13 @@ The script identifies proximal instances between AMR genes and mobile elements, 
 
 ![Results of E.coli](E.coli_Results_Sample.png)
 
+## Instructions 
+
+- Ensure files are in either .tab/.tabular or .csv. Usually ABRicate results are in .tab while MGEfinder, mobileelementfinder and Integron finder are in .csv 
+- Install requirements to your own local venv 
+- Run python script and results will save to a local folder called Chromosome_maps
+
+
 
 ## Features
 
@@ -22,7 +29,7 @@ The script identifies proximal instances between AMR genes and mobile elements, 
 
 - **ABRicate** (CARD database) for AMR gene identification
 - **mobileelementfinder** for locating insertion sequences (IS)
-- **Integron Finder** (Galaxy local)
+- **Integron Finder** (Galaxy or Local)
 - **MatPlotLib** and **Biopython** for visualization
 
 ## Glossary
