@@ -1,0 +1,47 @@
+# Ignore Python virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Ignore all folders (except .git)
+*/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment and dependency files
+*.env
+*.venv
+Pipfile.lock
+poetry.lock
+
+# Ignore test and coverage outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+nosetests.xml
+pytest_cache/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore build and distribution folders
+build/
+dist/
+*.egg-info/
+.eggs/
