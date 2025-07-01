@@ -16,6 +16,8 @@ The script identifies proximal instances between AMR genes and mobile elements, 
 - Install requirements to your own local venv 
 - Run python script and results will save to a local folder called Chromosome_maps
 
+![Results in Terminal](Terminal_Results.png)
+
 
 
 ## Features
