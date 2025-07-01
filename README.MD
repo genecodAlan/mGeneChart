@@ -1,12 +1,15 @@
-# mGeneChart 
+# mGeneChart 📊🧫
 
-## Overview
+## Overview 
 
-This pipeline, developed by Alan Risal (geneCodeAlan), interprets results from ABRicate and mobileelementfinder CSV outputs to analyze the colocation of antimicrobial resistance (AMR) genes and mobile genetic elements (MGEs). It is tailored for these two output formats but can be adapted for others.
+This pipeline interprets results from ABRicate and mobileelementfinder CSV and .tab/.tabular outputs to analyze the colocation of antimicrobial resistance (AMR) genes and mobile genetic elements (MGEs). It is tailored for these two output formats but can be adapted for others.
 
 ## Purpose
 
 The script identifies proximal instances between AMR genes and mobile elements, creating a numerical representation of the risk of gene mobility. While plasmid contigs are assumed mobile, the pipeline focuses on predicting the mobility of AMR genes within chromosomal structures by observing their proximity to MGEs.
+
+
+
 
 ## Features
 
