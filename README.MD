@@ -8,7 +8,7 @@ This pipeline interprets results from ABRicate and mobileelementfinder CSV and .
 
 The script identifies proximal instances between AMR genes and mobile elements, creating a numerical representation of the risk of gene mobility. While plasmid contigs are assumed mobile, the pipeline focuses on predicting the mobility of AMR genes within chromosomal structures by observing their proximity to MGEs.
 
-![Results of E.coli](Ecoli_Results_Sample.png)
+![Results of E.coli](E.coli_Results_Sample.png)
 
 
 ## Features
